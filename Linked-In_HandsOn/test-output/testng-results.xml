@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-26T15:03:50 IST" name="test_suite" finished-at="2023-12-26T15:03:57 IST" duration-ms="7250">
+    <groups>
+    </groups>
+    <test started-at="2023-12-26T15:03:50 IST" name="test" finished-at="2023-12-26T15:03:57 IST" duration-ms="7250">
+      <class name="org.testCases.tc001_loginPage">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.testCases.tc001_loginPage@2ddc8ecb]" started-at="2023-12-26T15:03:50 IST" name="launchBrowser" finished-at="2023-12-26T15:03:52 IST" duration-ms="2054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="testcase([Ljava.lang.String;)[pri:0, instance:org.testCases.tc001_loginPage@2ddc8ecb]" started-at="2023-12-26T15:03:52 IST" name="testcase" data-provider="login-credentials" finished-at="2023-12-26T15:03:53 IST" duration-ms="440" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@5aaaa446]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.testCases.tc001_loginPage@2ddc8ecb]" started-at="2023-12-26T15:03:53 IST" name="tearDown" finished-at="2023-12-26T15:03:53 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.testCases.tc001_loginPage@2ddc8ecb]" started-at="2023-12-26T15:03:53 IST" name="launchBrowser" finished-at="2023-12-26T15:03:54 IST" duration-ms="1440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="testcase([Ljava.lang.String;)[pri:0, instance:org.testCases.tc001_loginPage@2ddc8ecb]" started-at="2023-12-26T15:03:54 IST" name="testcase" data-provider="login-credentials" finished-at="2023-12-26T15:03:55 IST" duration-ms="512" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7baf1f5a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.testCases.tc001_loginPage@2ddc8ecb]" started-at="2023-12-26T15:03:55 IST" name="tearDown" finished-at="2023-12-26T15:03:55 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.testCases.tc001_loginPage@2ddc8ecb]" started-at="2023-12-26T15:03:55 IST" name="launchBrowser" finished-at="2023-12-26T15:03:57 IST" duration-ms="1384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="testcase([Ljava.lang.String;)[pri:0, instance:org.testCases.tc001_loginPage@2ddc8ecb]" started-at="2023-12-26T15:03:57 IST" name="testcase" data-provider="login-credentials" finished-at="2023-12-26T15:03:57 IST" duration-ms="524" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1caa9eb6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.testCases.tc001_loginPage@2ddc8ecb]" started-at="2023-12-26T15:03:57 IST" name="tearDown" finished-at="2023-12-26T15:03:57 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.testCases.tc001_loginPage -->
+    </test> <!-- test -->
+  </suite> <!-- test_suite -->
+</testng-results>
